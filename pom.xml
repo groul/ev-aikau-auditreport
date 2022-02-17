@@ -49,6 +49,15 @@
                 <twitter>twitter.com/sujaypillai</twitter>
             </properties>
         </developer>
+		<developer>
+            <id>groul</id>
+            <name>Govinda Roul</name>
+            <email>govindaroul@gmail.com</email>
+            <roles>
+                <role>Developer</role>
+            </roles>
+            <timezone>Asia/Banglore</timezone>
+        </developer>
     </developers>
 
     <properties>
